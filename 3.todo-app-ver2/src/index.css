@@ -1,0 +1,10 @@
+
+input{
+  width: 100%;
+}
+.bg-btn{
+  min-width: 100px;
+}
+.bg-row{
+  margin: 10px -10px;
+}

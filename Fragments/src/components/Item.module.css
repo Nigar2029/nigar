@@ -1,0 +1,16 @@
+.bg-color{
+    background-color: navajowhite;
+}
+.text-color{
+    color: orchid;
+}
+.button{
+    padding: 8px;
+    color: black;
+    font-size: 15px;
+    margin: 15px;
+    background-color: rgba(174, 132, 54, 0.412);
+    height: 50px;
+    width: 50%;
+    text-align: center;
+}
